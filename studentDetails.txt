@@ -1,0 +1,3 @@
+sid.todi2000@gmail.com;Sid.todi2000;Siddarth Todi;India;Asansol;2019B2A70991P;3
+hriday@gmail.com;hriday;Hriday Kedia;India;Siliguri;2019B2A70990P;0
+abc.def@gmail.com;abc;abc def;India;Pilani;2020B1AB0991P;4

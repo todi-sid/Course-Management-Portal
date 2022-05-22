@@ -1,0 +1,4 @@
+Q1. OOP Stands for ?[1 marks];a.Object Object Programming;b.Oriented Object Programming;c.Object Oriented Programming;d.None of the Above;c
+Q2. Which of the option is not a feature of OOP ?[1 marks];a.Encalsulation;b.Inheritance;c.Polymorphism;d.Recursion;d
+Q3. What is the code of the course OOP ?[1 marks];a. CS F211;b. CS F212;c. CS F213;d. CS F214;c
+Q4. Who is the IC of OOP ?[1 marks];a. Amitesh Rajput;b. Rajesh Kumar;c. Prateek Narang;d. Amit Dua;d
